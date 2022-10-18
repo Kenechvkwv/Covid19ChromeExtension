@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Stats Uk",
+    "version": "1.0.0",
+    "description": "Uk Covid Data",
+    "manifest_version": 3,
+    "author": "Kenechvkwv",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Covid 19 Latest Report UK"
+    }
+}
