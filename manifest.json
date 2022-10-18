@@ -1,7 +1,7 @@
 {
     "name": "Covid-19 Stats Uk",
     "version": "1.0.0",
-    "description": "Uk Covid Data",
+    "description": "Uk Covid Data. Built as part of a tutorial process",
     "manifest_version": 3,
     "author": "Kenechvkwv",
     "action": {
